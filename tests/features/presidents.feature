@@ -1,6 +1,6 @@
-Feature: DuckDuckGo Instant Answer API
+Feature: DuckDuckGo search for presidents
   As a user of DuckDuckGo I want to get the results
-  for my search of list of presidents.
+  for my search of presidents of the United States.
 
   Scenario Outline: Using DuckDuckGo to search for presidents of the united states
     Given the DuckDuckGo is queried for presidents of the united states
